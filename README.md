@@ -1,6 +1,8 @@
 # DeleteAllHardLinkFiles
 Little utility to send all copies of a file with hard links to the recycling bin. integrated into windows explorer. Pairs nicely with Link Shell Extension (https://schinagl.priv.at/nt/hardlinkshellext/hardlinkshellext.html)
 
+![hard link delete](https://github.com/user-attachments/assets/08423faf-c69d-4474-945d-3f404141f4f2)
+
 
 Step 1: Install Ln with Choco using the command "choco install ln". Other ways to install it and more details about this are at https://schinagl.priv.at/nt/ln/ln.html
 
