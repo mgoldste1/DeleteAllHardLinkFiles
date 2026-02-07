@@ -7,6 +7,7 @@
     <Nullable>enable</Nullable>
     <ApplicationIcon Condition="Exists('Assets\recycle.ico')">Assets\recycle.ico</ApplicationIcon>
     <ApplicationIcon>Assets\recycle2.ico</ApplicationIcon>
+    <Version>1.1.0</Version>
   </PropertyGroup>
 
   <ItemGroup>
