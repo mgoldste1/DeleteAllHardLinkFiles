@@ -4,7 +4,7 @@ Little utility to send all copies of a file with hard links to the recycling bin
 ![hard link delete](https://github.com/user-attachments/assets/08423faf-c69d-4474-945d-3f404141f4f2)
 
 
-Step 1: Install Ln with Choco using the command "choco install ln". Other ways to install it and more details about this are at https://schinagl.priv.at/nt/ln/ln.html
+Step 1: Install Ln with Choco using the command `choco install ln`. Other ways to install it and more details about this are at https://schinagl.priv.at/nt/ln/ln.html
 
 Step 2: Make sure you have .net 8 runtime installed.  (https://dotnet.microsoft.com/en-us/download/dotnet/8.0 - the ".net desktop runtime" one is on the right in the middle. I believe this one is what you want)
 
